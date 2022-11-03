@@ -2,7 +2,6 @@
 # plusコマンド
 ![test](https://github.com/sasakiiiiy/robosys2022/actions/workflows/test.yml/badge.svg)
 標準入力から読み込んだ数字を足す。
-(ここから必要事項を記入する)
 
 ## 必要なソフトウェア
 * Python
