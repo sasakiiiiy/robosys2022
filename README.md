@@ -13,7 +13,7 @@
 ```bash
 git clone git@github.com:sasakiiiiy/robosys2022.git
 ```
-3. plusファイルがあるか確かめる
+3. 念のためplusファイルがあるか確かめる
 ```bash
 ls
 ```
@@ -23,6 +23,7 @@ ls
 seq 5 | ./plus
 ```
 と打つと出力結果は15になる。
+
 
 ## テスト環境
 * Ubuntu
